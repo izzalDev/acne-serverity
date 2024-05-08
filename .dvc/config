@@ -1,5 +1,4 @@
 [core]
     autostage = true
 ['remote "origin"']
-    url = s3://dvc
-    endpointurl = https://dagshub.com/izzalDev/acne-serverity.s3
+    url = https://dagshub.com/izzalDev/acne-serverity.dvc
